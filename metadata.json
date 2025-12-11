@@ -1,0 +1,5 @@
+{
+  "name": "SCHOA - Smart Clinical & Operational Assistant",
+  "description": "A comprehensive hospital management dashboard integrating FHIR-standard patient data, AI-driven clinical documentation assistance, and intelligent financial analytics.",
+  "requestFramePermissions": []
+}
